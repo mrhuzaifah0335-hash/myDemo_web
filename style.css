@@ -16,3 +16,10 @@
     border: 4px dashed red;
     margin: 20px;
 }
+.myhead1{
+    background-color: aquamarine;
+    text-align: center;
+    color: brown;
+    border: 5px solid red;
+    border-radius: 10px;
+}
