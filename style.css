@@ -1,0 +1,18 @@
+.mynav{
+    background-color: aqua;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 4px solid red;
+    padding: 8px;
+    border-radius: 8px;
+}
+.mydiv{
+    background-color: rgb(254, 225, 190);
+    color:rgb(60, 69, 234);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    padding: 10px;
+    text-align: justify;
+    border: 4px dashed red;
+    margin: 20px;
+}
